@@ -1,0 +1,345 @@
+@media screen and (min-width: 1600px) {
+    .make-nowrap {
+        flex-wrap: nowrap !important;
+    }
+}
+@media screen and (min-width: 1400px) {
+    .show-actions {
+        > a {
+            display: none;
+        }
+        .dropdown-menu {
+            position: relative !important;
+            display: block !important;
+        }
+    }
+}
+
+@media screen and (max-width: 1399.98px) {
+    // Font Size
+    .fs-1 {
+        @include font-size($_1px);
+    }
+    .fs-2 {
+        @include font-size($_2px);
+    }
+    .fs-3 {
+        @include font-size($_3px);
+    }
+    .fs-4 {
+        @include font-size($_4px);
+    }
+    .fs-5 {
+        @include font-size($_5px);
+    }
+    .fs-6 {
+        @include font-size($_6px);
+    }
+    .fs-7 {
+        @include font-size($_7px);
+    }
+    .fs-8 {
+        @include font-size($_8px);
+    }
+    .fs-9 {
+        @include font-size($_9px);
+    }
+    .fs-10 {
+        @include font-size($_10px);
+    }
+    .fs-11 {
+        @include font-size($_11px);
+    }
+    .fs-12 {
+        @include font-size($_12px);
+    }
+    .fs-13 {
+        @include font-size($_13px);
+    }
+    .fs-14 {
+        @include font-size($_14px);
+    }
+    .fs-15 {
+        @include font-size($_15px);
+    }
+    .fs-16 {
+        @include font-size($_16px);
+    }
+    .fs-17 {
+        @include font-size($_17px);
+    }
+    .fs-18 {
+        @include font-size($_18px);
+    }
+    .fs-19 {
+        @include font-size($_19px);
+    }
+    .fs-20 {
+        @include font-size($_20px);
+    }
+    .fs-21 {
+        @include font-size($_21px);
+    }
+    .fs-22 {
+        @include font-size($_22px);
+    }
+    .fs-23 {
+        @include font-size($_22px);
+    }
+    .fs-24 {
+        @include font-size($_22px);
+    }
+    .fs-25 {
+        @include font-size($_22px);
+    }
+    .fs-26 {
+        @include font-size($_24px);
+    }
+    .fs-27 {
+        @include font-size($_24px);
+    }
+    .fs-28 {
+        @include font-size($_24px);
+    }
+    .fs-29 {
+        @include font-size($_24px);
+    }
+    .fs-30 {
+        @include font-size($_26px);
+    }
+    .fs-31 {
+        @include font-size($_26px);
+    }
+    .fs-32 {
+        @include font-size($_26px);
+    }
+    .fs-33 {
+        @include font-size($_28px);
+    }
+    .fs-34 {
+        @include font-size($_28px);
+    }
+    .fs-35 {
+        @include font-size($_28px);
+    }
+    .fs-36 {
+        @include font-size($_30px);
+    }
+    .fs-37 {
+        @include font-size($_30px);
+    }
+    .fs-38 {
+        @include font-size($_30px);
+    }
+    .fs-39 {
+        @include font-size($_32px);
+    }
+    .fs-40 {
+        @include font-size($_32px);
+    }
+    .fs-41 {
+        @include font-size($_32px);
+    }
+    .fs-42 {
+        @include font-size($_32px);
+    }
+    .fs-43 {
+        @include font-size($_36px);
+    }
+    .fs-44 {
+        @include font-size($_36px);
+    }
+    .fs-45 {
+        @include font-size($_36px);
+    }
+    .fs-46 {
+        @include font-size($_36px);
+    }
+    .fs-47 {
+        @include font-size($_40px);
+    }
+    .fs-48 {
+        @include font-size($_40px);
+    }
+    .fs-49 {
+        @include font-size($_40px);
+    }
+    .fs-50 {
+        @include font-size($_40px);
+    }
+    .fs-51 {
+        @include font-size($_42px);
+    }
+    .fs-52 {
+        @include font-size($_42px);
+    }
+    .fs-53 {
+        @include font-size($_42px);
+    }
+    .fs-54 {
+        @include font-size($_42px);
+    }
+    .fs-55 {
+        @include font-size($_44px);
+    }
+    .fs-56 {
+        @include font-size($_44px);
+    }
+    .fs-57 {
+        @include font-size($_44px);
+    }
+    .fs-58 {
+        @include font-size($_44px);
+    }
+    .fs-59 {
+        @include font-size($_45px);
+    }
+    .fs-60 {
+        @include font-size($_45px);
+    }
+    .fs-61 {
+        @include font-size($_45px);
+    }
+    .fs-62 {
+        @include font-size($_45px);
+    }
+    .fs-63 {
+        @include font-size($_45px);
+    }
+    .fs-64 {
+        @include font-size($_48px);
+    }
+    .fs-65 {
+        @include font-size($_48px);
+    }
+    .fs-66 {
+        @include font-size($_48px);
+    }
+    .fs-67 {
+        @include font-size($_48px);
+    }
+    .fs-68 {
+        @include font-size($_48px);
+    }
+    .fs-69 {
+        @include font-size($_48px);
+    }
+    .fs-70 {
+        @include font-size($_50px);
+    }
+    .fs-80 {
+        @include font-size($_60px);
+    }
+    .fs-90 {
+        @include font-size($_70px);
+    }
+    .fs-100 {
+        @include font-size($_80px);
+    }
+    .fs-110 {
+        @include font-size($_90px);
+    }
+    .fs-120 {
+        @include font-size($_100px);
+    }
+    .fs-130 {
+        @include font-size($_110px);
+    }
+    .fs-140 {
+        @include font-size($_120px);
+    }
+    .fs-150 {
+        @include font-size($_130px);
+    }
+
+    body {
+        font-size: $_15px;
+    }
+
+    h1 {
+        @include font-size($_32px);
+    }
+    
+    h2 {
+        @include font-size($_28px);
+    }
+    
+    h3 {
+        @include font-size($_24px);
+    }
+    
+    h4 {
+        @include font-size($_20px);
+    }
+    
+    h5 {
+        @include font-size($_18px);
+    }
+    
+    h6 {
+        @include font-size($_16px);
+    }
+
+
+    .vacasky-vertical-nav ul.main-menu li a,
+    .dropdown-widget .user-message .message {
+        font-size: $_16px;
+        line-height: $_30px;
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    // .vacasky-vertical-nav-toggle {
+    //     display: none;
+    // }
+
+    .page-header {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .dataTables_wrapper .dataTables_paginate span {
+        border-radius: $border-radius-sm;
+        margin: 10px 10px;
+    }
+    .dataTables_wrapper .dataTables_paginate .paginate_button {
+        width: 30px;
+        height: 30px;
+        border-radius: $border-radius-sm;
+    }
+
+    .dropdown-widget.dropdown-schedule {
+        .notification-board li {
+            flex-wrap: wrap;
+        }
+        .message-footer {
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+    }
+
+    .search-form .form-control {
+        height: $_54px;
+    }
+    .search-form [type="submit"].btn {
+        font-size: $_18px;
+        @include rfs(15px, left);
+    }
+
+    .filtering .btn {
+        width: $_40px;
+        height: $_40px;
+        border-radius: $border-radius-sm;
+        font-size: $_18px;
+    }
+
+    .dataTables_wrapper .dataTables_length select,
+    .dataTables_wrapper .dataTables_filter input[type="search"] {
+        height: 40px;
+    }
+    .dataTables_wrapper .dataTables_filter label i {
+        top: 8px;
+    }
+    .fc .fc-toolbar {
+        flex-wrap: wrap;
+    }
+}

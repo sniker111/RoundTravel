@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../vendor/rfs/sass.sass",
+        "../../vendor/rfs/scss.scss"
+    ],
+    "names": [],
+    "file": "sass.css"
+}

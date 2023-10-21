@@ -1,0 +1,356 @@
+
+:root .dark-mode {
+    background: #0D0B21;
+    color: #FFFFFF;
+
+    // Background Color
+    .bg-white {
+        background: #15132B !important;
+    }
+    .bg-dark {
+        background: #FFFFFF !important;
+    }
+    .bg-black {
+        background: #FFFFFF !important;
+    }
+    .bg-light {
+        background: #0D0B21 !important;
+    }
+    .bg-light-100 {
+        background: #0D0B21 !important;
+    }
+    .bg-light-200 {
+        background: #1D1B33 !important;
+    }
+    .bg-light-300 {
+        background: #23213b !important;
+    }
+    .bg-light-400 {
+        background: #2B2940 !important;
+    }    
+    .bg-light-500 {
+        background: #2B2940 !important;
+    }
+    .bg-muted {
+        background: #2B2940 !important;
+    }
+    .bg-gray {
+        background: #FFFFFF !important;
+    }
+    .bg-gray-100 {
+        background: #FFFFFF !important;
+    }
+
+    // Text Color
+    .text-white {
+        color: #15132B !important;
+    }
+    .text-dark {
+        color: #FFFFFF !important;
+    }
+    .text-black {
+        color: #FFFFFF !important;
+    }
+    .text-light {
+        color: #0D0B21 !important;
+    }
+    .text-light-100 {
+        color: #0D0B21 !important;
+    }
+    .text-light-200 {
+        color: #1D1B33 !important;
+    }
+    .text-light-300 {
+        color: #23213b !important;
+    }
+    .text-light-400 {
+        color: #2B2940 !important;
+    }
+    .text-light-500 {
+        color: #2B2940 !important;
+    }
+    .text-muted {
+        color: #2B2940 !important;
+    }
+    .text-gray {
+        color: #FFFFFF !important;
+    }
+    .text-gray-100 {
+        color: #FFFFFF !important;
+    }
+
+    // Border Color
+    .border-white {
+        border-color: #15132B !important;
+    }
+    .border-dark {
+        border-color: #FFFFFF !important;
+    }
+    .border-black {
+        border-color: #FFFFFF !important;
+    }
+    .border-light {
+        border-color: #0D0B21 !important;
+    }
+    .border-light-100 {
+        border-color: #0D0B21 !important;
+    }
+    .border-light-200 {
+        border-color: #1D1B33 !important;
+    }
+    .border-light-300 {
+        border-color: #23213b !important;
+    }
+    .border-light-400 {
+        border-color: #2B2940 !important;
+    }
+    .border-light-500 {
+        border-color: #2B2940 !important;
+    }
+    .border-muted {
+        border-color: #2B2940 !important;
+    }
+    .border-gray {
+        border-color: #FFFFFF !important;
+    }
+    .border-gray-100 {
+        border-color: #FFFFFF !important;
+    }
+
+    // Button Color
+    .btn-white {
+        background: #15132B !important;
+    }
+    .btn-dark {
+        background: #FFFFFF !important;
+    }
+    .btn-black {
+        background: #FFFFFF !important;
+    }
+    .btn-light {
+        background: #0D0B21 !important;
+    }
+    .btn-light-100 {
+        background: #0D0B21 !important;
+    }
+    .btn-light-200 {
+        background: #1D1B33 !important;
+    }
+    .btn-light-300 {
+        background: #23213b !important;
+    }
+    .btn-light-400 {
+        background: #2B2940 !important;
+    }
+    .btn-light-500 {
+        background: #2B2940 !important;
+    }
+    .btn-muted {
+        background: #2B2940 !important;
+    }
+    .btn-gray {
+        background: #FFFFFF !important;
+    }
+    .btn-gray-100 {
+        background: #FFFFFF !important;
+    }
+
+    // Button Border Color 
+    .btn-white {
+        border-color: #15132B !important;
+    }
+    .btn-dark {
+        border-color: #FFFFFF !important;
+    }
+    .btn-black {
+        border-color: #FFFFFF !important;
+    }
+    .btn-light {
+        border-color: #0D0B21 !important;
+    }
+    .btn-light-100 {
+        border-color: #0D0B21 !important;
+    }
+    .btn-light-200 {
+        border-color: #1D1B33 !important;
+    }
+    .btn-light-300 {
+        border-color: #23213b !important;
+    }
+    .btn-light-400 {
+        border-color: #2B2940 !important;
+    }    
+    .btn-light-500 {
+        border-color: #2B2940 !important;
+    }
+    .btn-muted {
+        border-color: #2B2940 !important;
+    }
+    .btn-gray {
+        border-color: #FFFFFF !important;
+    }
+    .btn-gray-100 {
+        border-color: #FFFFFF !important;
+    }
+
+    
+    // Customize Elements
+    .header,
+    .vacasky-vertical-nav,
+    .vacasky-right-side-panel,
+    .card:not(.boost-card),
+    .select2-container--default .select2-selection--single .select2-selection__rendered,
+    table.dataTable.display tbody tr.odd > .sorting_1, table.dataTable.order-column.stripe tbody tr.odd > .sorting_1, table.dataTable.display tbody tr.even > .sorting_1, table.dataTable.order-column.stripe tbody tr.even > .sorting_1, table.dataTable.display tbody tr:hover > .sorting_1, table.dataTable.order-column.hover tbody tr:hover > .sorting_1, table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover, table.dataTable.stripe tbody tr.odd, table.dataTable.display tbody tr.odd,
+    table.dataTable tbody tr,
+    table.defaultTable tbody tr,
+    .tox:not(.tox-tinymce-inline) .tox-editor-header,
+    .tox .tox-toolbar, .tox .tox-toolbar__overflow, .tox .tox-toolbar__primary,
+    .flatpickr-calendar,
+    .admin-card ul li a:hover,
+    .apexcharts-menu {
+        background: #15132B;
+    }
+
+    .vacasky-vertical-nav ul.main-menu li.current > a, 
+    .vacasky-vertical-nav ul.main-menu li.active > a, 
+    .vacasky-vertical-nav ul.main-menu li:hover > a,
+    .vacasky-horizontal-nav ul.main-menu li ul li a,
+    .vacasky-combo-nav ul.main-menu li ul li a,
+    .dataTables_wrapper .dataTables_length select,
+    .dataTables_wrapper .dataTables_filter input[type="search"],
+    .search-form .form-control,
+    .fc .fc-daygrid-event-harness,
+    .fc .fc-day-other,
+    .message-preview .message--body .message--text,
+    .message-list .dropdown-widget .notification-board li a:hover, .message-list .dropdown-widget .notification-board li a.active,
+    .message-box li a.active, .message-box li a:hover,
+    .tox .tox-edit-area__iframe,
+    .tox .tox-menubar,
+    .tox .tox-tbtn--bespoke,
+    .form-control,
+    .form-select,
+    .modal-content,
+    .vacasky-vertical-nav ul.main-menu li ul,
+    ::-webkit-scrollbar-thumb{
+        background: #2B2940;
+    }
+
+    .dropdown-widget.dropdown-menu,
+    .admin-card.dropdown-widget.dropdown-menu .card,
+    .header .dropdown-menu::after,
+    ::-webkit-scrollbar {
+        background: #0D0B21;
+    }
+
+    ul.main-menu li ul li a::before {
+        background-color: #F5F5F5;
+    }
+
+    .card,
+    .card-header,
+    .card-footer,
+    .dropdown-widget.dropdown-schedule .notification-board li,
+    .dropdown-widget .notification-board li:not(:last-child),
+    table.dataTable.no-footer,
+    table.dataTable thead th, table.dataTable thead td,
+    table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.dataTable.display tbody th, table.dataTable.display tbody td,
+    .dataTables_wrapper .dataTables_length select,
+    .dataTables_wrapper .dataTables_filter input[type="search"],
+    table.defaultTable tbody th, table.defaultTable tbody td,
+    .select2-container--default .select2-selection--single .select2-selection__rendered,
+    .search-form .form-control,
+    .form-control,
+    .form-select,
+    .fc-theme-standard td, .fc-theme-standard th,
+    .fc td,
+    .fc-theme-standard .fc-scrollgrid,
+    .tox-tinymce,
+    .tox:not(.tox-tinymce-inline).tox-tinymce--toolbar-bottom .tox-editor-header,
+    &.vacasky-vertical-nav--collapse .vacasky-vertical-nav .menu-section-title,
+    .header .dropdown-menu::after {
+        border-color: #1D1B33;
+    }
+
+    .select2-container--default .select2-selection--single .select2-selection__rendered,
+    .apexcharts-menu {
+        border-color: #15132B;
+    }
+    
+
+    h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p,
+    .vacasky-vertical-nav ul.main-menu li.current > a,
+    .vacasky-vertical-nav ul.main-menu li.active > a,
+    .vacasky-vertical-nav ul.main-menu li:hover > a,
+    .vacasky-vertical-nav .vacasky-vertical-nav-toggle,
+    .vacasky-mobile-menu-opener,
+    .vacasky-horizontal-nav ul.main-menu li a,
+    .vacasky-combo-nav ul.main-menu li a,
+    .bg-primary.text-white, .bg-primary .text-white,
+    .bg-secondary.text-white, .bg-secondary .text-white,
+    .bg-success.text-white, .bg-success .text-white,
+    .bg-info.text-white, .bg-info .text-white,
+    .bg-warning.text-white, .bg-warning .text-white,
+    .bg-danger.text-white, .bg-danger .text-white,
+    .bg-blue.text-white, .bg-blue .text-white,
+    .bg-green.text-white, .bg-green .text-white,
+    .bg-red.text-white, .bg-red .text-white,
+    .bg-yellow.text-white, .bg-yellow .text-white,
+    .bg-orange.text-white, .bg-orange .text-white,
+    .bg-cyan.text-white, .bg-cyan .text-white,
+    .bg-muted.text-white, .bg-muted .text-white,
+    .bg-white.text-primary, .bg-white .text-primary,
+    .fc .fc-daygrid-week-number,
+    .all-notifications .btn,
+    .btn-primary,
+    .badge.bg-primary,
+    .form-control,
+    .list-group-item,
+    .dataTables_wrapper .dataTables_length label, .dataTables_wrapper .dataTables_filter label,
+    table.dataTable thead th, table.dataTable thead td,
+    thead, tbody, tfoot, tr, td, th, td h6, td .h6,
+    .dataTables_wrapper .dataTables_paginate .paginate_button,
+    .dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate,
+    .dataTables_wrapper .dataTables_length select,
+    .dataTables_wrapper .dataTables_filter input[type="search"],
+    .select2-container--default .select2-selection--single .select2-selection__rendered,
+    .page-link,
+    .fc .fc-daygrid-day-number,
+    .tox .tox-edit-area__iframe p,
+    .tox .tox-mbtn,
+    .tox .tox-tbtn--bespoke,
+    .tox .mce-content-body,
+    .form-label,
+    .list-style li,
+    dl, dd, dt,
+    .flatpickr-months .flatpickr-month,
+    span.flatpickr-weekday,
+    .flatpickr-day:not(.flatpickr-disabled):not(.nextMonthDay) {
+        color: #FFFFFF !important;
+    }
+
+    .form-control:disabled, .form-control[readonly],
+    .list-group-item.disabled {
+        color: #2f2c50 !important;
+    }
+
+    .apexcharts-text.apexcharts-xaxis-label, .apexcharts-text.apexcharts-yaxis-label,
+    .apexcharts-datalabel, .apexcharts-datalabel-label, .apexcharts-datalabel-value, .apexcharts-datalabels, .apexcharts-pie-label {
+        fill: #FFFFFF !important;
+    }
+
+    hr {
+        color: #1D1B33;
+    }
+
+    .logo a {
+        .logo-text {
+            opacity: 0;
+            visibility: hidden;
+        }
+        .logo-text-white {
+            opacity: 1;
+            visibility: visible;
+        }
+    }
+    
+}
