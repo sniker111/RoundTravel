@@ -12,11 +12,15 @@
 		<link href="/assets/css/main.css" rel="stylesheet">
 		%sveltekit.head%
 	</head>
-	<body data-sveltekit-preload-data="hover">
+	<body data-sveltekit-preload-data="hover" class="bg-light forFixedNav">
 		<div style="display: contents">%sveltekit.body%</div>
 		<!-- Core JS -->
 		<script src="/assets/js/jquery-3.6.0.min.js"></script>
 		<script src="/assets/js/bootstrap.bundle.min.js"></script>
+
+		<!-- ApexChart -->
+		<script src="/assets/plugins/apexchart/apexcharts.min.js"></script>
+		<script src="/assets/plugins/apexchart/apexchart-inits/apexcharts-tour.js"></script>
 
 		<!-- Datatables -->
 		<script src="/assets/plugins/datatables/js/jquery.dataTables.min.js"></script>
@@ -24,9 +28,6 @@
 
 		<!-- Date Picker -->
 		<script src="/assets/plugins/flatpickr/flatpickr.min.js"></script>
-
-		<!-- Date Picker -->
-		<script src="/assets/plugins/jquery-repeater/jquery.repeater.js"></script>
 
 		<!-- Theme Custom JS -->
 		<script src="/assets/js/theme.js"></script>
