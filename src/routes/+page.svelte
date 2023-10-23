@@ -20,11 +20,10 @@
                         <input type="password" class="form-control" name="password" value="123456" placeholder="Type Password" required>
                     </div>
 
-                    <a href="account-profile.html" class="btn btn-primary w-100 text-uppercase text-white rounded-2 lh-34 ff-heading fw-bold shadow">Login</a>
+                    <a href="account-profile.html" class="btn bg-teal-500 w-100  text-white rounded-2 lh-34 ff-heading fw-bold shadow !hover:text-black">Login</a>
 
-                    <p class="d-flex align-items-center justify-content-between mt-4 mb-4">Forgot your password? <a href="forgot-password.html" class="text-primary fw-bold text-decoration-underline">Reset Here</a></p>
+                    <p class="d-flex align-items-center justify-content-between mt-4 mb-4"><a href="/reset-password">Forgot your password?</a></p>
 
-                    <a href="register.html" class="btn btn-secondary w-100 text-uppercase text-white rounded-2 lh-34 ff-heading fw-bold">Create an Account</a>
                 </form>
             </div>
         </div>
