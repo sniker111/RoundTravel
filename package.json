@@ -27,6 +27,11 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bootstrap": "^5.3.2"
+		"bcryptjs": "^2.4.3",
+		"bootstrap": "^5.3.2",
+		"cookie": "^0.5.0",
+		"mysql2": "^3.6.2",
+		"svelte-time": "^0.8.0",
+		"uuidv4": "^6.2.13"
 	}
 }
